@@ -1,0 +1,5 @@
+pandas
+openpyxl
+psycopg[binary]
+matplotlib
+pytest

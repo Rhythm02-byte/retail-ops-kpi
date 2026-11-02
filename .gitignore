@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.DS_Store
+.vscode/
+.idea/
+# Raw and derived data stay local; the source dataset is re-downloaded
+data/
